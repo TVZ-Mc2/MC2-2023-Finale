@@ -6,7 +6,7 @@ Ovdje će te predati vaša riješenja.
 
 # PAŽLJIVO PROČITATI SVE KORAKE PRIJE PREDAJE!!
 
-Došlo je do malih promjena od polufinala, na Github predajete samo kod, u jednom folderu, a svu ostalu dokumentaciju, video i prezentacije šaljete na mail. Svaki tim uploada **samo jedan folder** sa svojim projektom.
+Došlo je do malih promjena od polufinala, na Github predajete samo kod, u jednom folderu, a svu ostalu dokumentaciju, video i prezentacije šaljete na mail. Svaki tim uploada **samo jedan folder** sa svojim projektom.asd
 
 # Koraci predaje:
 1. Napraviti folder na vašem računalu s nazivom ImeTima_NazivRješenja_Godina (primjer: SuperTim_SuperMarioGame_2022) u kojem će biti sve potrebno za pokretanje projekta. Možete samo u taj folder kopirati/premjestiti folder sa projektom, nemorate preimenovati folder svog projekta.
