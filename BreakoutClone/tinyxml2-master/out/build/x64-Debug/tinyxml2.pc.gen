@@ -1,0 +1,10 @@
+prefix=H:/Program Files/Programiranje/Gamepires/Breakout/ConsoleApplication1/tinyxml2-master/out/install/x64-Debug
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: TinyXML2
+Description: simple, small, C++ XML parser
+Version: 9.0.0
+Libs: -L${libdir} -l$<TARGET_FILE_BASE_NAME:tinyxml2::tinyxml2>
+Cflags: -I${includedir}
